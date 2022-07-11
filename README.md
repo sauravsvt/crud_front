@@ -2,6 +2,6 @@
 Please refer to backend repo and connect them both for best output.
 
 Thank you for checking out!
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot01.png)
 
-![Screenshot](screenshot2.png)
+![Screenshot](Screenshot02.png)
