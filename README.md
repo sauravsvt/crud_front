@@ -23,9 +23,6 @@ Admin View
 ![Screenshot](Screenshot06.png)
 Add More Details
 
-![Screenshot](Screenshot06.png)
-Add More Details
-
 
 ![Screenshot](Screenshot07.png)
 Change Your Password
